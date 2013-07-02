@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "jsdom": "latest",
-    "uglify-js": "1.2.2",
+    "uglify-js": "latest",
     "commander": "0.5.1"
   },
   "repository": {
